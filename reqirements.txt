@@ -1,0 +1,8 @@
+pandas 
+numpy
+scikit-learn
+ipykernel
+ollama
+streamlit
+sentence_transformers
+re
